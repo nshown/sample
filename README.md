@@ -2,6 +2,39 @@
 
 ## Checkout These Additional Resources:
 
+### [Unit 2 - VBA Scripting](01-Lesson-Plans/02-VBA-Scripting)
+
+| Activities                                             | Slideshow                                                                                                                             | Video                                                                                                                                             | Summary                                                                                           |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [2.1 - Activities](01-Lesson-Plans/02-VBA-Scripting/1) | [2.1 Slideshow](https://docs.google.com/presentation/d/1Phs85XGpB1Zk9rnnpvoNJIuyRq5FERtqHplZLlBLDY4/edit?usp=sharing)                 | [2.1 Video](https://zoom.us/rec/share/7YZY5fDQavuZlPwjoKEU2aMZHPhUJ4u6v6OSv3m4PUhg0-ZSkywY_Z_m0EKEK7Zh.1jI8_JZ1OlCIihHM?startTime=1599777239000)  | [2.1 Summary](https://drive.google.com/file/d/1wj3rB3QdBIbCPqYNMqN_cOrGCQT3VmaH/view?usp=sharing) |
+| [2.2 - Activities](01-Lesson-Plans/02-VBA-Scripting/2) | [2.2 Slideshow](https://docs.google.com/presentation/d/1L-_yIwbWQTkFix_af4cWoKM6fV3-BkStu-GyVqON138/edit#slide=id.g5630132377_0_4496) | [2.2 Video1](https://zoom.us/rec/share/a_QG4jEivn_74-65m7re8SPO8X82WjHlUKukDVcH2Ieplqxpi7WKF6bvORHIU5YO.cgGb5LX5LLWJWyfT?startTime=1599916447000) | [2.2 Summary](https://drive.google.com/file/d/1uSOssZggXh6AiXbRujmi9wZ52kVwur7T/view?usp=sharing) |
+| [2.2 - Activities](01-Lesson-Plans/02-VBA-Scripting/2) | [2.2 Slideshow](https://docs.google.com/presentation/d/1L-_yIwbWQTkFix_af4cWoKM6fV3-BkStu-GyVqON138/edit#slide=id.g5630132377_0_4496) | [2.2 Video2](https://zoom.us/rec/share/bsW6fkbC9a-mqJRKueoDVSATFYZIvszMQliNwXMBCCWXEOyntcyGhxeXmuBfe7h7.lfnAJEwUACQdhy2e?startTime=1599927252000) | [2.2 Summary](https://drive.google.com/file/d/1uSOssZggXh6AiXbRujmi9wZ52kVwur7T/view?usp=sharing) |
+| [2.3 - Activities](01-Lesson-Plans/02-VBA-Scripting/3) | [2.3 Slideshow](https://docs.google.com/presentation/d/1SU0xDLa1Cr790iIP_nZI42ypMjF2d1N7IgK-vu8lzI8/edit#slide=id.g473a132ac1_0_7)    | [2.3 Video](https://zoom.us/rec/share/WwNhSZ-XPcnHSOrlWa97yci7JQlE3qvPIi24UwkbGk92ne4B8NKPBAwdLmeETZEJ.T1HnTncp0wo_P02Y?startTime=1600206344000)  | [2.3 Summary](https://drive.google.com/file/d/1NyGYqzHTUW-CmvCQDH_DLnNw2ySuqRu3/view?usp=sharing) |
+
+---
+
+### [Unit 3 - Python](01-Lesson-Plans/03-Python)
+
+| Activities                                      | Slideshow                                                                                                                           | Video                                                                                                                                            | Summary                                                                                           |
+| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
+| [3.1 - Activities](01-Lesson-Plans/03-Python/1) | [3.1 Slideshow](https://docs.google.com/presentation/d/1qKC0MJpAMiMyK-mIPQsb0QVz4dFuLCOi-q-6ymdIDRQ/edit#slide=id.g71fbd5a0e0_0_0)  | [3.1 Video](https://zoom.us/rec/share/dbuzK8lqPbCXIT7nlHFgUH6t-Vo5ECKlwjqfBzw_56etEC3nOKwYHZPEJSHlmAm1.42gR1OXBVyyqJIkv?startTime=1600375498000) | [3.1 Summary](https://drive.google.com/file/d/1hDowJsahJcYWnP1hLC1-vjfD72nxgE1J/view?usp=sharing) |
+| [3.2 - Activities](01-Lesson-Plans/03-Python/2) | [3.2 Slideshow](https://docs.google.com/presentation/d/1Mu-qvYd0BMbh0u02WSFc9LPl_lyeu99Qpa8UjBZKX1g/edit#slide=id.g828f33c8e5_0_0)  | [3.2 Video](https://zoom.us/rec/share/abu1ufdocNU-OtP7D28fkmuT2Q3v1qqhBCVM4KcP5SPXXDvpr5HLo0bKtVdVSLku.GK7NDAva3etj5PiS?startTime=1600521021000) | [3.2 Summary](https://drive.google.com/file/d/1HVnp94C5rM41nc5mDJx4xfKhY6Bke71T/view?usp=sharing) |
+| [3.3 - Activities](01-Lesson-Plans/03-Python/3) | [3.3 Slideshow](https://docs.google.com/presentation/d/1Oe8Ne3n1k67DRQ4tgxjGZA6rALRkeJAsILIcVXb-o6Q/edit#slide=id.g7286c5cc72_0_28) | [3.3 Video](https://zoom.us/rec/share/wwXfNjWrWdVpCKVhOR9mK_Bcx4t_Os7xiNi7m9Cl8oYFZIc0TnSHg1xC35SjfW13.9NKI5Pd-SyR0S6OJ?startTime=1600811520000) | [3.3 Summary](https://drive.google.com/file/d/19l1Ban1NEwl1rLh9VyoYVEr1Y0bc7xPQ/view?usp=sharing) |
+
+**Homework**: [Python Homework](02-Homework/03-Python/Instructions), [Homework tips](https://docs.google.com/document/d/1Cd82mEcKJeNN-Q8oKt-omaIgzAc5VpIkWmRaIGcvfAY/edit?usp=sharing)
+
+---
+
+### [Unit 4 - Pandas](01-Lesson-Plans/04-Pandas)
+
+| Activities                                      | Slideshow                                                                                                             | Video                                                                                                                                            | Summary                                                                                           |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
+| [4.1 - Activities](01-Lesson-Plans/04-Pandas/1) | [4.1 Slideshow](https://docs.google.com/presentation/d/1lvscn_6UUbLiXSSC9atN_LfYPgMRhbA5zY9IVQrbRh8/edit?usp=sharing) | [4.1 Video](https://zoom.us/rec/share/LKGICs2o4IWu9kE_Ts10c-yOrkaLa5i2T_koykMFlHcRTOa2LsN9xdtzgtExhSJk.29iMnMYyMS19-RdF?startTime=1600982118000) | [4.1 Summary](https://drive.google.com/file/d/1-9_r0VHok4Ne3e2LIj_tNQhhXi__mk4v/view?usp=sharing) |
+| [4.2 - Activities](01-Lesson-Plans/04-Pandas/2) | [4.2 Slideshow](https://docs.google.com/presentation/d/1K5vkFCx6ltt-5-D-h4bEDoN7Bh54Jw2R-UNzx833rLw/edit?usp=sharing) | [4.2 Video](https://zoom.us/rec/share/tZVLjHvdvRWJqUOgUPjdwgGDR6L8E0rWRXBOQvL5gsQx5eFSrktiEBMtH-h6ZTT2.uyEJ0JPEvdRdKviW?startTime=1601126065000) | [4.2 Summary](https://drive.google.com/file/d/1wmsP8RjdUK0lKP0YBLSQ_DsIuyhHD6hK/view?usp=sharing) |
+| [4.3 - Activities](01-Lesson-Plans/04-Pandas/3) | [4.3 Slideshow](https://docs.google.com/presentation/d/1HUUqYF9hrgPD8Gni7LB1_zh-Fszs1qhq0hsGeNJ4hqA/edit?usp=sharing) | [4.3 Video](https://zoom.us/rec/share/FDMQDyjD5oiC1WYzVk9IArfAOvb57fVQfUlgqjEhusnjAQ8yTDwr4T5357Byoh5b.nDbeH1nL1YL29gK5?startTime=1601415294000) | [4.3 Summary](https://drive.google.com/file/d/1-XTXZhZgeW25K-KODk9ZIwJTv7wk1Vgv/view?usp=sharing) |
+
+---
+
 ### [Unit 9 - Relational Databases and Data Storage (SQL, ACID, etc.)](01-Lesson-Plans/09-SQL)
 
 | Activities                                   | Slideshow                                                                                                                          | Video                                                                                                                                            | Summary                                                                                           |
